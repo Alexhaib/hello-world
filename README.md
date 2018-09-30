@@ -1,6 +1,6 @@
 # hello-world
-Hello-World project
+## Hello-World project
 
 Oleksandra Obriza,
-trying to learn programming
-first time here
+* trying to learn programming
+* first time here
